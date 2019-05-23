@@ -1,6 +1,8 @@
 package fr.nathanael2611.tutomod;
 
+import fr.nathanael2611.tutomod.event.ModEventListener;
 import fr.nathanael2611.tutomod.proxy.CommonProxy;
+import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.SidedProxy;
 import net.minecraftforge.fml.common.event.FMLInitializationEvent;
