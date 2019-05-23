@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tutomod",
+  "name": "Mod Tutoriel",
+  "description": "This mod was made for a tutorial.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Nathanael2611"],
+  "credits": "This mod was made by Nathanael2611 for a tutorial.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
